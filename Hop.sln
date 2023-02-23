@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hop", "Hop.csproj", "{7592EC21-84AD-4F49-A07D-5C3AFB01C219}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7592EC21-84AD-4F49-A07D-5C3AFB01C219}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7592EC21-84AD-4F49-A07D-5C3AFB01C219}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7592EC21-84AD-4F49-A07D-5C3AFB01C219}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7592EC21-84AD-4F49-A07D-5C3AFB01C219}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
